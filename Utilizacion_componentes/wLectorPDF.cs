@@ -43,3 +43,7 @@ namespace Utilizacion_componentes
         }
     }
 }
+// Codigo Hecho por Sneider Velasquez Iglesias
+// Hecho: 20 de abril de 2023
+// Ultima Modificación: 4 de mayo de 2023
+// Sneider el ciego.
